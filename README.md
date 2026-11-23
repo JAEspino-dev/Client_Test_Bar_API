@@ -2,7 +2,7 @@
 Use this program if you want to view more info about a specific bar drink!
 
 # Link
-[Check out the Site!](https://fullstack-name-app.onrender.com)
+[Check out the Site!](https://bardrinksbyje.netlify.app/)
 
 # 📋 How to use
 1. Open the app in your browser
